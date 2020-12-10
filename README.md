@@ -1,2 +1,3 @@
-# aula_javascript_DIO
+# aula_intro_javascript_DIO
 Introdução ao JavaScript
+Curso básico da Digital Innovation One!!
